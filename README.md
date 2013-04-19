@@ -8,7 +8,7 @@ it everywhere. Works in node and browsers.
 
 ## Usage
 ```javascript
-var fmt = require("simple-fmt");`
+var fmt = require("simple-fmt");
 console.log(fmt("hello {0} of age {1}", name, age));
 ```
 
